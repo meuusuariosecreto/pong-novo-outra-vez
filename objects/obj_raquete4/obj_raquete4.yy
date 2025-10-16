@@ -6,7 +6,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_raquete",
+    "path": "sprites/spr_raquete/spr_raquete.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
