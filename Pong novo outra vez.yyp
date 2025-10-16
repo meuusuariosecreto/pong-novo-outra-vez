@@ -6,6 +6,7 @@
     {"id":{"name":"obj_bola2","path":"objects/obj_bola2/obj_bola2.yy",},"order":4,},
     {"id":{"name":"spr_raquete","path":"sprites/spr_raquete/spr_raquete.yy",},"order":0,},
     {"id":{"name":"obj_raquete2","path":"objects/obj_raquete2/obj_raquete2.yy",},"order":1,},
+    {"id":{"name":"obj_raquete4","path":"objects/obj_raquete4/obj_raquete4.yy",},"order":5,},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":2,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":3,},
