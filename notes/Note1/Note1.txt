@@ -1,0 +1,43 @@
+Telas do jogo?
+Tela inicial
+Tela do jogo
+
+Elementos do jogo
+TELA INICIAL
+Botão de jogar
+Botão de jogadores (escolher o modo de jogo)
+Raquetes
+
+TELA DO JOGO
+Bola
+Raquete P1
+Raquete P2 (pode ser inteligencia artificial ou outro jogador)
+Sistema de pontos
+Imagem de fundo (background)
+
+Atividades
+1 - Criar as sprites da tela do jogo - FEITO
+	1.1 - Criar a sprite da raquete - FEITO!
+	1.2 - Criar a sprite da bola - FEITO
+	1.2 - Criar a sprite do fundo - FEITO
+2 - Montando a tela de fato
+	2.1 - Definindo o plano de fundo da room
+	2.2 - Configurar as dimensões (tamanho) da tela inicial - FEITO
+		2.2.1 - Fazer a room ter o mesmo tamanho do background - FEITO
+	2.3 - Colocar o rosto e os olhos na room - FEITO
+		2.3.1 - O rosto e os olhos serão assets (sprites mesmo), criar uma layer para assets na room - FEITO
+	2.4 - Colocar os objetos de jogo na tela - FEITO
+	2.5 - Ter o sistema de pontos exibindo os pontos
+	
+3 - Criando os elementos do jogo
+	3.1 - Criando o objeto da raquete e colocando ele na room - FEITO
+	3.2 - Criando o objeto da bola - FEITO
+	3.3 - Criar a segunda raquete e coloca-la na room - FEITO
+	3.4 - Ter o sistema de pontos
+
+4 - Criar os sistemas do jogo
+	4.1 - Fazendo a raquete se mover com o WS
+		4.1.1 - Ao apertar o W a raquete vai subir - FEITO
+		(Fazer ele parar de subir quando eu soltar o botão)
+		4.1.2 - Ao apertar o S a raquete vai descer - FEITO
+	4.2 - Fazendo a raquete parar se nenhum botão esta sendo pressionado
